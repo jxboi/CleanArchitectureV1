@@ -1,0 +1,12 @@
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/bin/Debug/net7.0/CleanArc.Application.deps.json
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/bin/Debug/net7.0/CleanArc.Application.dll
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/bin/Debug/net7.0/CleanArc.Application.pdb
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/CleanArc.Application.csproj.AssemblyReference.cache
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/CleanArc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/CleanArc.Application.AssemblyInfoInputs.cache
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/CleanArc.Application.AssemblyInfo.cs
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/CleanArc.Application.csproj.CoreCompileInputs.cache
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/CleanArc.Application.dll
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/refint/CleanArc.Application.dll
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/CleanArc.Application.pdb
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Application/obj/Debug/net7.0/ref/CleanArc.Application.dll

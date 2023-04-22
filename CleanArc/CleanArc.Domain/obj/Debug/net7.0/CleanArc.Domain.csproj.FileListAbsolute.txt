@@ -1,0 +1,12 @@
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/bin/Debug/net7.0/CleanArc.Domain.deps.json
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/bin/Debug/net7.0/CleanArc.Domain.dll
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/bin/Debug/net7.0/CleanArc.Domain.pdb
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/CleanArc.Domain.csproj.AssemblyReference.cache
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/CleanArc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/CleanArc.Domain.AssemblyInfoInputs.cache
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/CleanArc.Domain.AssemblyInfo.cs
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/CleanArc.Domain.csproj.CoreCompileInputs.cache
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/CleanArc.Domain.dll
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/refint/CleanArc.Domain.dll
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/CleanArc.Domain.pdb
+/workspaces/CleanArchitectureV1/CleanArc/CleanArc.Domain/obj/Debug/net7.0/ref/CleanArc.Domain.dll
