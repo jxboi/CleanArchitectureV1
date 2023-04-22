@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CleanArc.Application\CleanArc.Application.csproj" />
-    <ProjectReference Include="..\CleanArc.Api\CleanArc.Api.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
